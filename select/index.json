@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "Ψ発見伝！",
+  "base_artist": "でんぱ組.inc",
+  "createdAt": "2025-12-12T19:57:37.489102Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Ψ発見伝！",
+      "artist": "Dempagumi.Inc",
+      "has_synced": true,
+      "path": "select/01_Ψ発見伝!_Dempagumi.Inc.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ψ発見伝！",
+      "artist": "Dempagumi.Inc",
+      "has_synced": true,
+      "path": "select/02_Ψ発見伝!_Dempagumi.Inc.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ψ発見伝!",
+      "artist": "でんぱ組.inc",
+      "has_synced": false,
+      "path": "select/pl_01_Ψ発見伝!_でんぱ組.inc.txt"
+    }
+  ]
+}
